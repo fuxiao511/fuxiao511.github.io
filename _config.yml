@@ -8,7 +8,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 title : 追随大神的脚步 不断学习
-tagline: keep on line
+tagline: keep on learning
 author :
     name : fuxiao511
     email : wliang0371#163.com
